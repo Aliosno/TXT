@@ -1,0 +1,4 @@
+Name: Sosno Alisa
+Age: 55
+Pets: one cat
+Salary: 120000 RUR 
